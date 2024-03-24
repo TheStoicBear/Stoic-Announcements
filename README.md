@@ -14,7 +14,7 @@ Stoic Announcements is a FiveM Lua resource designed to display random announcem
 2. Download [`ox_lib`](https://github.com/overextended/ox_lib).
 3. Place the `Stoic-Announcements` folder in your FiveM server's `resources` directory.
 4. Place the `ox_lib` folder in your FiveM server's `resources` directory.
-5. Ensure `ox_lib` in your server.cfg before `Stoic-Announcements:
+5. Ensure `ox_lib` in your server.cfg before `Stoic-Announcements`:
 6. Ensure the resource is properly started in your server.cfg file:
 
 
